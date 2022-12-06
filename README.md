@@ -31,7 +31,7 @@
 
 ## Project :star2:
 
-Este projeto fazia parte de um desafio UI Clone, a ideia era replicar (parcialmente) o perfil e as páginas do repositório do GitHub usando suas APIs públicas. Foi feito usando ReactJS, MUI e styled-components para construir um tema Dark/Light.
+Este projeto fazia parte de um desafio Field Control, a ideia era replicar (parcialmente) o perfil e as páginas do repositório do GitHub usando suas APIs públicas. Foi feito usando ReactJS, MUI e styled-components para construir um tema Dark/Light.
 
 O usuário também pode navegar por diferentes usuários e repositórios.
 
